@@ -1,0 +1,810 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|c:\\users\\63995\\source\\repos\\studentattendancemanagement\\studentattendancemanagement\\ucmarkattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmarkattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucattendancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucattendancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucattendancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucattendancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmarkattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmarkattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucteacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucteacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formcreateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formcreateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formcreateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formcreateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmarkattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmarkattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formedit.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formedit.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanagestudents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanagestudents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formcreateclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formcreateclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formaddstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formaddstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\formaddstudent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\formaddstudent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StudentAttendanceManagement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageteachers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageteachers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucmanageaccounts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucmanageaccounts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\ucadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\ucadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\loadingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\loadingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\studentattendancemanagement\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FA8CB-A276-41AC-9551-1F17BE106B27}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucMarkAttendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucMarkAttendance.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucMarkAttendance.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucMarkAttendance.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucMarkAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:18:22.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucTeacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucTeacherDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucTeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucTeacherDashboard.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucTeacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:53:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:49:25.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadingScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\LoadingScreen.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoadingScreen.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\LoadingScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:04:45.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucAdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAdminDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAdminDashboard.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucAdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:20:42.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\TeacherDashboard.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\TeacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:40:57.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\TeacherDashboard.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\TeacherDashboard.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:14:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucAdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAdminDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAdminDashboard.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucAdminDashboard.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAASwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:55:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\AdminDashboard.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\AdminDashboard.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:35:59.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucManageTeachers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageTeachers.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageTeachers.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageTeachers.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageTeachers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:48:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucAttendanceHistory.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAttendanceHistory.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucAttendanceHistory.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAttendanceHistory.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucAttendanceHistory.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAiwPgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T01:42:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucAttendanceHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAttendanceHistory.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucAttendanceHistory.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAttendanceHistory.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucAttendanceHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T01:40:16.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucMarkAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucMarkAttendance.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucMarkAttendance.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucMarkAttendance.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucMarkAttendance.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAA2wJQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:31:43.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoginPage.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoginPage.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\LoginPage.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:55:59.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ucTeacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucTeacherDashboard.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucTeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucTeacherDashboard.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucTeacherDashboard.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wEEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:57:50.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\TeacherDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\TeacherDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\TeacherDashboard.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\TeacherDashboard.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAASwFsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:17:31.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucTeacherDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucTeacherDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucTeacherDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucTeacherDashboard.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucTeacherDashboard.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:08:40.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoginPage.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoginPage.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:33:24.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ucManageTeachers.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageTeachers.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageTeachers.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageTeachers.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageTeachers.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAiwEUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:24:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormCreateClass.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormCreateClass.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormCreateClass.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormCreateClass.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormCreateClass.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:04:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCreateClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormCreateClass.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormCreateClass.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormCreateClass.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormCreateClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:53:25.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ucManageClass.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageClass.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageClass.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageClass.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageClass.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAcwC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:43:24.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ucManageClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageClass.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageClass.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageClass.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:09:33.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ucManageStudents.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageStudents.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageStudents.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageStudents.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageStudents.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAiwM4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:26:26.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ucManageStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageStudents.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageStudents.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageStudents.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:22:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ucManageAccounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageAccounts.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageAccounts.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageAccounts.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageAccounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:03:33.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ucMarkAttendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucMarkAttendance.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucMarkAttendance.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucMarkAttendance.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucMarkAttendance.Designer.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAiwMwBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:57:01.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormEdit.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:16:26.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormEdit.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormEdit.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:16:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormEdit.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:18:54.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormEdit.resx",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.resx",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormEdit.resx",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormEdit.resx",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormEdit.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-06T17:35:33.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormAddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormAddStudent.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormAddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:54:53.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAWwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:00:52.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\DatabaseHelper.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:39:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ucManageClass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageClass.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageClass.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageClass.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageClass.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAASwGMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:53:35.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ucManageStudents.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageStudents.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageStudents.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageStudents.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageStudents.Designer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAWwP4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:48:56.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormCreateClass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormCreateClass.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormCreateClass.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormCreateClass.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormCreateClass.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwFMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:00:22.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormAddStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormAddStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormAddStudent.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAIwPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:55:03.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormAddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormAddStudent.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormAddStudent.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAlwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:55:33.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormAddStudent.resx",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.resx",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\FormAddStudent.resx",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\FormAddStudent.resx",
+              "RelativeToolTip": "StudentAttendanceManagement\\FormAddStudent.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-06T05:25:27.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentAttendanceManagement",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\StudentAttendanceManagement.csproj",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\StudentAttendanceManagement.csproj",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\StudentAttendanceManagement.csproj",
+              "RelativeToolTip": "StudentAttendanceManagement\\StudentAttendanceManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T03:44:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ucManageAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageAccounts.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageAccounts.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageAccounts.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageAccounts.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAQwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:16:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ucManageTeachers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageTeachers.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageTeachers.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageTeachers.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageTeachers.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAADwv+kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:25:55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ucManageAccounts.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageAccounts.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucManageAccounts.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucManageAccounts.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucManageAccounts.Designer.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAwwAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:57:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ucAdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\ucAdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\ucAdminDashboard.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\ucAdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:49:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoginPage.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\LoginPage.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoginPage.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\LoginPage.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAuwOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:56:04.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoadingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\LoadingScreen.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoadingScreen.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\LoadingScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:06:25.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoadingScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoadingScreen.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\LoadingScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\LoadingScreen.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\LoadingScreen.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:06:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\Program.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:16:47.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\63995\\source\\repos\\StudentAttendanceManagement\\StudentAttendanceManagement\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:10:07.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
